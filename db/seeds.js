@@ -15,5 +15,5 @@ db.bookings.insertMany([
         name: "Beckham",
         email: "beckham@gmail.com",
         checkedIn: false
-    },
+    }
 ]);
